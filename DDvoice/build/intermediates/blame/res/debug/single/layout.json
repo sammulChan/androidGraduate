@@ -4,20 +4,84 @@
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\phone_view.xml"
     },
     {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\details_dialog.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\details_dialog.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\main.xml"
+    },
+    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view_header.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\phone_view_header.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\view_expandable.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.github.traex.expandablelayout\\library\\1.2.2\\res\\layout\\view_expandable.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\list_item.xml"
     },
     {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_activity.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\phone_activity.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\call_recently_view_content.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\call_recently_view_content.xml"
+    },
+    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\call_recently_view_header.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\call_recently_view_header.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\androidGraduate\\MaterialDesign\\unspecified\\res\\layout\\progress_dialog.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
@@ -28,32 +92,36 @@
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.github.traex.expandablelayout\\library\\1.2.2\\res\\layout\\view_expandable.xml"
     },
     {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view_content.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\phone_view_content.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view_header.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\phone_view_header.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\androidGraduate\\MaterialDesign\\unspecified\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\call_recently_view_content.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\call_recently_view_content.xml"
-    },
-    {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view_content.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\phone_view_content.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
@@ -64,8 +132,44 @@
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_close_item.xml"
     },
     {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\androidGraduate\\MaterialDesign\\unspecified\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\androidGraduate\\MaterialDesign\\unspecified\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\call_recently_view_content.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\call_recently_view_content.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view_content.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\phone_view_content.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\androidGraduate\\MaterialDesign\\unspecified\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\main_ui.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\main_ui.xml"
+    },
+    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -76,24 +180,64 @@
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\SonarVoice\\MaterialDesign\\unspecified\\res\\layout\\dialog.xml"
     },
     {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\SonarVoice\\MaterialDesign\\unspecified\\res\\layout\\color_selector.xml"
-    },
-    {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\SonarVoice\\MaterialDesign\\unspecified\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\SonarVoice\\MaterialDesign\\unspecified\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view_header.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\phone_view_header.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\list_item.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\details_dialog.xml",
@@ -104,16 +248,16 @@
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\phone_activity.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\main.xml"
-    },
-    {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\SonarVoice\\MaterialDesign\\unspecified\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -124,40 +268,60 @@
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_home.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_home.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\call_recently_view_header.xml",
-        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\call_recently_view_header.xml"
-    },
-    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\phone_view.xml",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\layout\\phone_view.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\call_recently_view_header.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\layout\\call_recently_view_header.xml"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\layout\\main_ui.xml",

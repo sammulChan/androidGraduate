@@ -1,7 +1,15 @@
 [
     {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\raw\\lock.mp3",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\raw\\lock.mp3"
+    },
+    {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\raw\\lock.mp3",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\raw\\lock.mp3"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\raw\\begin.mp3",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\src\\main\\res\\raw\\begin.mp3"
     },
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\raw\\begin.mp3",

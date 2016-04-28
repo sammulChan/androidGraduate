@@ -2,5 +2,9 @@
     {
         "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sprite_check.png",
         "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\exploded-aar\\SonarVoice\\MaterialDesign\\unspecified\\res\\drawable-ldpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sprite_check.png",
+        "source": "F:\\graduateDesign\\graduateDesign\\androidGraduate\\DDvoice\\build\\intermediates\\exploded-aar\\androidGraduate\\MaterialDesign\\unspecified\\res\\drawable-ldpi-v4\\sprite_check.png"
     }
 ]
