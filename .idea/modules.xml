@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DDvoice/DDvoice.iml" filepath="$PROJECT_DIR$/DDvoice/DDvoice.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaterialDesign/MaterialDesign.iml" filepath="$PROJECT_DIR$/MaterialDesign/MaterialDesign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SonarVoice.iml" filepath="$PROJECT_DIR$/SonarVoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidGraduate.iml" filepath="$PROJECT_DIR$/androidGraduate.iml" />
     </modules>
   </component>
 </project>
