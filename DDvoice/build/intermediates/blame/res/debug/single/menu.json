@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\graduateDesign\\SonarVoice\\DDvoice\\build\\intermediates\\res\\merged\\debug\\menu\\phone_activity_menu.xml",
+        "source": "F:\\graduateDesign\\SonarVoice\\DDvoice\\src\\main\\res\\menu\\phone_activity_menu.xml"
+    }
+]
